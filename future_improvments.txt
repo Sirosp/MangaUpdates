@@ -1,0 +1,13 @@
+1) Add a way to differenciate between websites right now it 
+is only set up for one website Manhuaplus, but some of the other
+manga I read arent available on this website
+
+2) Add a way to just get the description of each manga
+
+3) Add the last update date
+
+4)Seperate the function of --check and --Add
+
+5)Create a custom little Ui box that allows you to 
+follow the link if there is an update to the latest chapter
+
