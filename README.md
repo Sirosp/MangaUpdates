@@ -9,3 +9,13 @@ Right now the implementation is pretty static, there is only support for 2 websi
 The program works by making a HTTP request to the url page of the manga from there it will search for the HTML ID and get
 the contents of the chapter list. From their it will compare it against the already stored JSON and check if the HTTP 
 request differs.
+
+Future Improvements
+  -Add a UI to allow you to easily go to the websites if there are any updates
+  -Add more support for more websites
+  -Add more information about the manga itself
+  -Make it an executable instead of running it through the command line
+  -Possibly add a automatic scheduled run, that will send notification to your 
+    phone
+  -Add the ability to remove manga
+  
